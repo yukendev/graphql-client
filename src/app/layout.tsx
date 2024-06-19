@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import "./globals.css";
 // core styles are required for all packages
 import "@mantine/core/styles.css";
 import { createTheme, MantineProvider } from "@mantine/core";
